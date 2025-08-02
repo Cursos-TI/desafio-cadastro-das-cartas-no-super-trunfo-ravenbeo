@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+    // Estrutura para armazenar os dados da carta
 struct Carta {
     char estado;
     char codigo[20];
